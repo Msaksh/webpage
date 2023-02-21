@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.formContainer {
+    box-shadow: 0px 4px 30px #cecece;
+    width: 300px;
+    text-align: center;
+    border-radius: 20px;
+    margin: auto;
+
+    border-radius: 27px;
+    background: #6b5c7a;
+    box-shadow: 6px 6px 13px #574b63,
+        -6px -6px 13px #7f6d91;
+}
+
+.formTop {
+    background-color: #4e57cc;
+    background: linear-gradient(to right, #4e57cc, #be51c0);
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.formTop>p {
+    margin: 0;
+    padding: 25px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.formBottom {
+    padding: 10px 20px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+
+.inputTags {
+    width: 100%;
+    padding: 10px 0px 10px 5px;
+    border-radius: 20px;
+    border: 1px solid #cfcfcf;
+}
+
+.signUpBtn {
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid grey;
+    background: linear-gradient(to right, #4e57cc, #be51c0);
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.anchorTag {
+    text-decoration: none;
+    color: #4646ff;
+}
+
+.haha {
+    width: 400px;
+    height: 400px;
+    background: rgba(208, 25, 25, 0.3);
+    border-radius: 0% 100% 51% 49% / 0% 47% 53% 100%;
+}
